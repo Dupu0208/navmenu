@@ -60,6 +60,7 @@ header{
         text-decoration: none;
         display: inline-block;
         width: 20%;
+        float: left;
         /* style the list items to remove the bullets 
         and line up horizontally
         and take up 20% of the width of the ul */
